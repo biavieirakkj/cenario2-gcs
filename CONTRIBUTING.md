@@ -1,6 +1,6 @@
 # Padrões de Branches, Commits, Pull Requests e Testes
 
-Este documento define os padrões adotados pela equipe para organização do repositório, nomenclatura de branches, mensagens de commit, Pull Requests e testes (simulados) do projeto Sabor Caseiro.
+Este documento define os padrões adotados pela equipe para organização do repositório, nomenclatura de branches, mensagens de commit, Pull Requests.
 
 ## 1. Branch principal
 
