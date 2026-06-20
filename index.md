@@ -10,7 +10,7 @@ Receitas de família, ingredientes frescos e aquele tempero que só existe na co
 
 - [Início](#sabor-caseiro)
 - [Sobre](#sobre)
-- [Cardápio](#cardápio)
+- [Cardápio](#cardapio)
 - [Contato](#contato)
 
 ---
@@ -28,6 +28,8 @@ Trabalhamos com produtores locais, sem pressa, do jeito que comida de verdade pr
 - 6 pratos novos por semana
 
 ---
+
+<a id="cardapio"></a>
 
 ## Cardápio
 

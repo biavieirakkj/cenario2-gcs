@@ -2,6 +2,8 @@
 
 Site institucional fictício de um restaurante, desenvolvido como parte da Prova 2 de Gerência de Configuração de Software (UFMS, 2026/1).
 
+Versão 1.0.0
+
 ## Equipe
 
 Beatriz Vieira, Maria Eduarda de Macedo, Isabela Garcia, Luciana Nunes, Reinaldo Hashioka, Miguel Paulo Rodrigues
