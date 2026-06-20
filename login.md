@@ -9,12 +9,16 @@
 | E-mail | texto (e-mail) | Sim |
 | Senha | texto (senha) | Sim |
 
+## Cores
+
+Usar a paleta de cores pré-selecionada.
+
 ## Regras
 
 - O e-mail deve ter um formato válido (`nome@dominio.com`).
-- A senha deve ter no mínimo 8 caracteres.
+- A senha deve ter no mínimo 8 caracteres, 1 caractere especial e 1 número.
 - Após 3 tentativas incorretas, exibir mensagem de bloqueio temporário.
-- Em caso de sucesso, redirecionar para a área de edição do cardápio.
+- Em caso de sucesso, redirecionar para a área de edição do cardápio.s
 
 ## Histórico
 
